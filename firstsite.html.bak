@@ -1,0 +1,128 @@
+<html>
+ <head>
+ 
+  <title>Document</title>
+  <style>
+     #a1
+	 {
+	     font-size:50px;
+		 text-shadow:10px 0px 10px skyblue;
+		 
+	 }
+	 
+	 #a3
+	 { 
+	    background-color:cyan;
+		width:100%;
+		height:700px;
+	 }
+	  #a2
+	 { 
+	    background-color:grey;
+		width:100%;
+		height:3000px;
+	}
+	#a4
+	{
+	   width:500px;
+	   height:100px;
+	   text-align:center;
+	   text-shadow:10px 10px 10px red;
+	   box-shadow:10px 0px 10px orange;
+	   
+	  
+	}
+	ol
+	{
+	   color:white;
+	}
+	#a5
+	{
+	  color:orange;
+	}
+	#a6
+	{
+	     color:blue;
+	}
+  </style>
+ </head>
+ <body>
+ <div id="a2">
+ <h1 id="a1"><ins>MY FIRST WEBSITE<ins></h1>
+ <strong>
+ <ul style="list-type:circle">
+ <li>HI...iam rajkumar this is my first website i hope this website will reaches my expectations</li>
+ <li>Here iam going to tell about "HTML" form</li>
+ </ul>
+ <ol style="list-type:decimal">
+ <li><a href="rajaa.html" id="a5">HTML FORM LINK</a></li>
+ <li><a href="hyperlink.html"id="a5">HYPER LINK</a></li>
+ <li><a href="div.html"id="a5">DIV TAG</a></li>
+ <li><a href="field.html"id="a5">FIELDSET</a></li>
+ <li><a href="iframe.html"id="a5">IFRAME</a></li>
+  <li><a href="JAVA.htm"id="a5">JAVA FULL STACK WIKIPEDIA</a></li>
+ </ol>
+ <h1>MY FAVOURITE HERO IS NTR</h1>
+ <div id="a3">
+ <iframe src="ntrimages.jpg" style="width:600;height:500;"></iframe>
+ <iframe src="pawanvid.mp4" controls width="600"height="500" ></iframe>
+ </div>
+ <h2>pan card details</h2>
+ <ul style="list-type:disc">
+ <li><a href="assign.html">open pancard</a></li>
+   <li><a href="css.html">
+   <img src="pbphotos.jfif"></img></a></li>
+   <li><a href="mainpage.html"><input type="button" value="open main page"></input></a></li>
+
+ </ul>
+ <br>
+ <h1 id="a4"> JAVA FULL STACK DEVELOPMENT</h1>
+ <img src="heart-love.gif"style="width:300;height:200;"></img>
+ <a href="lovelink.htm" id="a6"><h4>CLICK HERE TO DOWNLOADLOVE SYMBOLS</h4></a>
+ <IMG SRC="NTRIMAGES.JPG" STYLE="WIDTH:300;height:200;"></IMG>
+ <a href="ntrlink.htm" id="a6"><h3>CLICK HERE TO DOWNLOAD NTR PHOTOS</h3>
+  <a href="fbook.htm" id="a6"><h3>CLICK HERE TO facebook login</h3>
+  <a href="ibomma.htm" id="a6"><h3>CLICK HERE TO iBOMMA WEBSITE</h3>
+    <a href="myyoutube.htm" id="a6"><h3>CLICK HERE TO iBOMMA WEBSITE</h3>
+ 
+  <br>
+   <form>
+ <label style="color:red"><h2>who is your favourite hero</h2></label>
+ 
+<img src="ntrimages.jpg" WIDTH="50" HEIGHT="50" ></img>              
+
+<input type="radio"  name="answer" >NTR</input>
+<br></br>
+<img src="pspkphotos.jpg" width="50"height= "50"></img>
+
+<input  type="radio" name="answer">pspk</input>
+<br></br>
+<img src="pbphotos.JFIF" WIDTH="50" HEIGHT="50"></img>
+
+<input type="radio" name="answer">prabas</img>
+<br></br>
+<img src="aa.jpg" WIDTH="50" HEIGHT="50"></img>
+
+<input type="radio"  name="answer">AA</input>>
+<br></br>
+<input type="submit" value="add"></input>
+</form>
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+
+
+ </strong>
+ </div>
+
+ 
+  
+ </body>
+</html>
